@@ -164,7 +164,7 @@ form button.btn-primary:hover {
     1 - Hero
 ------------------------------------*/
 .hero {
-  background: url("../images/logo1.jpg") no-repeat center;
+  background: url("../images/slides/slide4.jpg") no-repeat center;
   /* background-size: cover; */
   overflow: hidden;
   position: relative;
@@ -295,7 +295,7 @@ form button.btn-primary:hover {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: #ee1515;
+  background-color: #2f127f;
   position: absolute;
   top: -25px;
   left: -1px;
